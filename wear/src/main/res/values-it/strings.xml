@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="friday">Venerdì</string>
+    <string name="monday">Lunedì</string>
+    <string name="saturday">Sabato</string>
+    <string name="sunday">Domenica</string>
+    <string name="thursday">Giovedì</string>
+    <string name="tuesday">Martedì</string>
+    <string name="wednesday">Mercoledì</string>
+    <string name="april">Aprile</string>
+    <string name="august">Agosto</string>
+    <string name="december">Dicembre</string>
+    <string name="february">Febbraio</string>
+    <string name="jenuary">Gennaio</string>
+    <string name="july">Luglio</string>
+    <string name="june">Giugno</string>
+    <string name="march">Marzo</string>
+    <string name="may">Maggio</string>
+    <string name="november">Novembre</string>
+    <string name="october">Ottobre</string>
+    <string name="september">Settembre</string>
+    <string name="browse_time_lapse">Visualizza dei TimeLapse o impostane uno casuale</string>
+</resources>

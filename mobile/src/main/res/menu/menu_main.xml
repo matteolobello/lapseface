@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_contact_the_dev"
+        android:orderInCategory="1"
+        android:title="@string/contact_the_dev"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_library"
+        android:orderInCategory="2"
+        android:title="@string/library_used"
+        app:showAsAction="never" />
+</menu>

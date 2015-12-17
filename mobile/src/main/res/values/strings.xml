@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">LapseFace</string>
+    <string name="settings">Settings</string>
+    <string name="time_lapse">TimeLapse</string>
+    <string name="browse_time_lapse">Browse TimeLapses or set a random one</string>
+    <string name="title_activity_settings">LapseFace Settings</string>
+    <string name="pref_title_date_format">Date Format</string>
+    <string-array name="pref_entries_date_format">
+        <item>WeekDay/MonthDay/Month</item>
+        <item>MonthDay/Month/WeekDay</item>
+    </string-array>
+    <string-array name="pref_date_format_list_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string name="pref_header_watch">Watch</string>
+    <string name="pref_header_phone">Phone</string>
+    <string name="watch_not_connected">Watch isn\'t connected or it isn\'t using the WatchFace!</string>
+    <string name="title_activity_time_lapse_select">Select TimeLapse</string>
+    <string name="random_timelapse_applied">Random TimeLapse applied! </string>
+    <string name="first_time_message">Tap a preview to animate it ;)</string>
+    <string name="seconds">Seconds</string>
+    <string name="about">About</string>
+    <string name="pref_title_legacy_mode">Data Saver Mode</string>
+    <string name="pref_summary_legacy_mode">Don\'t display TimeLapses to save mobile data</string>
+    <string name="minutes">Minutes</string>
+    <string name="apply_random_timelapse">Select a random TimeLapse</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="first_time_select_timelapse_message">Tap the white space of the card to apply the TimeLapse on the watch</string>
+    <string name="contact_the_dev">Contact the Developer</string>
+    <string name="personal_website">Personal Website</string>
+    <string name="email">E-Mail</string>
+    <string name="google_plus">Google+</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="library_used">Libraries used</string>
+    <string name="aboutLibraries_description_showIcon">true</string>
+    <string name="aboutLibraries_description_showVersion">true</string>
+</resources>

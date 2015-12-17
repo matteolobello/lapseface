@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main -->
+    <dimen name="digital_text_size">48dp</dimen>
+    <dimen name="digital_text_size_round">50dp</dimen>
+    <dimen name="digital_x_offset">65dp</dimen>
+    <dimen name="digital_x_offset_round">65dp</dimen>
+    <dimen name="digital_y_offset">80dp</dimen>
+
+    <!-- Sub -->
+    <dimen name="sub_digital_text_size">16dp</dimen>
+    <dimen name="sub_digital_text_size_round">18dp</dimen>
+    <dimen name="sub_digital_x_offset">35dp</dimen>
+    <dimen name="sub_digital_x_offset_round">35dp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LapseFace</string>
+    <string name="browse_time_lapse">Visualizza dei TimeLapse o selezionane uno casuale</string>
+    <string name="pref_header_watch">Orologio</string>
+    <string name="pref_header_phone">Telefono</string>
+    <string name="pref_title_date_format">Formato data</string>
+    <string name="title_activity_time_lapse_select">Seleziona TimeLapse</string>
+    <string name="watch_not_connected">Orologio non collegato o WatchFace non applicata!</string>
+    <string name="random_timelapse_applied">TimeLapse casuale applicato!</string>
+    <string name="first_time_message">Tocca una anteprima per animarla ;)</string>
+    <string-array name="pref_entries_date_format">
+        <item>Giorno della settimana/Giorno del mese/Mese</item>
+        <item>Giorno del mese/Mese/Giorno della settimana</item>
+    </string-array>
+    <string name="pref_summary_legacy_mode">Non mostrare i TimeLapse per non consumare dati Internet</string>
+    <string name="pref_title_legacy_mode">Modalità risparmio dati</string>
+    <string name="seconds">Secondi</string>
+    <string name="minutes">Minuti</string>
+    <string name="title_activity_settings">Impostazioni LapseFace</string>
+    <string name="second">Secondo</string>
+    <string name="settings">Impostazioni</string>
+    <string name="minute">Minuto</string>
+    <string name="apply_random_timelapse">Seleziona un TimeLapse casuale</string>
+    <string name="first_time_select_timelapse_message">Tocca lo spazio bianco della card per applicare il TimeLapse</string>
+    <string name="contact_the_dev">Contatta lo Sviluppatore</string>
+    <string name="personal_website">Sito Personale</string>
+    <string name="library_used">Librerie usate</string>
+</resources>
