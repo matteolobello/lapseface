@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.lob.lapseface" >
 
-    <uses-feature android:name="android.hardware.type.watch" />
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="com.google.android.permission.PROVIDE_BACKGROUND" />
@@ -36,11 +34,6 @@
             android:name=".activity.TimeLapseSelectActivity"
             android:label="@string/title_activity_time_lapse_select"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".activity.LibaryUsedActivity"
-            android:label="@string/title_activity_about"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
     </application>
 
 </manifest>
